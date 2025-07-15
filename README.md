@@ -1,2 +1,3 @@
-# teste3
-teste3
+<?php
+	echo("<p>TESTE</p>");
+?>
